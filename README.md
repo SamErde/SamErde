@@ -7,4 +7,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde) 
 - 😄 Pronouns: he/his/him
 
-YOU matter! If you or someone you care about is affected by depression, anxeity, or any other mental health challenge, don't wait and don't be afraid to reach out. [NAMI](https://www.nami.org/Your-Journey) is a great place to find help and start taking steps toward wellness. :yellow_heart:
+YOU matter! If you or someone you care about is affected by depression, anxeity, or any other mental health challenge, don't wait and don't be afraid to reach out. [NAMI](https://www.nami.org/Your-Journey) and your doctor are a great place to start. :yellow_heart:
