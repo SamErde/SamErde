@@ -8,3 +8,6 @@
 - 😄 Pronouns: he/his/him
 
 YOU matter! If you or someone you care about is affected by depression, anxeity, or any other mental health challenge, don't wait and don't be afraid to reach out. [NAMI](https://www.nami.org/Your-Journey) and your doctor are a great place to start. :yellow_heart:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/samerde?style=social)](https://www.twitter.com/samerde) 
+  [![Server Fault](https://img.shields.io/stackexchange/serverfault/r/49571?style=social)](https://serverfault.com/users/49571/samerde)
