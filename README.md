@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on :blue_heart: PowerShell, Exchange Server, Active Directory and Azure AD, Windows Server deployments, and SolarWinds Orion . 
+- 🔭 I’m currently working on :blue_heart: PowerShell, Exchange Server, Active Directory, Azure AD, Windows Server deployments, Microsoft 365, and SolarWinds Orion . 
 - 🌱 I’m currently learning life as a husband and father, and when I have time: Docker, Ansible, code management with Git, and trying to catch my Linux knowledge up to its Windows counterpart. :penguin:
 - 👯 I’m looking to collaborate on PowerShell, Ubiquiti Dream Machine tools, and useful projects for Synology NAS. 
 - 💬 Ask me about Windows, Active Directory, anything between the two, and most of all: coffee! :coffee:
