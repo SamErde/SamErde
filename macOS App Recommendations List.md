@@ -1,75 +1,75 @@
 # Terminal Replacements
-iTerm2
-https://iterm2.com/, FOSS
+iTerm2  
+https://iterm2.com/, FOSS  
 
-Warp
-https://www.warp.dev/, free for individuals
+Warp  
+https://www.warp.dev/, free for individuals  
 
 
 # Text Editors
-Sublime
-https://www.sublimetext.com/, licensed
+Sublime  
+https://www.sublimetext.com/, licensed  
 
-Textmate
-https://macromates.com/download, FOSS
+Textmate  
+https://macromates.com/download, FOSS  
 
-BBEdit
-https://www.barebones.com/products/bbedit/, free trial
+BBEdit  
+https://www.barebones.com/products/bbedit/, free trial  
 
 
 # Endpoint Protection and Privacy
-Microsoft Defender for Endpoint (MDE)
-https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint, licensed
+Microsoft Defender for Endpoint (MDE)  
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint, licensed  
 
-BitDefender
-https://www.bitdefender.com/solutions/, subscription
+BitDefender  
+https://www.bitdefender.com/solutions/, subscription  
 
-Little Snitch (Privacy tool to view and block outgoing traffic (see also Glassware))
-https://www.obdev.at/products/littlesnitch, freemium / license
+Little Snitch (Privacy tool to view and block outgoing traffic (see also Glassware))  
+https://www.obdev.at/products/littlesnitch, freemium / license  
 
 
 # Virtualization
-Parallels Desktop
-https://www.parallels.com, licensed
+Parallels Desktop  
+https://www.parallels.com, licensed  
 
-VirtualBox
-https://www.virtualbox.org, free
+VirtualBox  
+https://www.virtualbox.org, free  
 
-Podman Desktop (Containers management)
-https://podman-desktop.io, FOSS
+Podman Desktop (Containers management)  
+https://podman-desktop.io, FOSS  
 
-Docker Desktop (Containers management)
-https://www.docker.com/products/docker, freemium
+Docker Desktop (Containers management)  
+https://www.docker.com/products/docker, freemium  
 
 
 # Window Management
-Rectangle
-https://rectangleapp.com, FOSS
+Rectangle  
+https://rectangleapp.com, FOSS  
 
-BetterSnapTool
-App Store, $2.99
+BetterSnapTool  
+App Store, $2.99  
 
-Magnet
-App Store, $9.99
+Magnet  
+App Store, $9.99  
 
 
 # Launcher and Dock Alternatives
-Raycast (Launcher, Spotlight search replacement, window manager, clipboard history, automation, and more)
-https://www.raycast.com, FOSS with paid premium option
+Raycast (Launcher, Spotlight search replacement, window manager, clipboard history, automation, and more)  
+https://www.raycast.com, FOSS with paid premium option  
 
-Alfred - (Launcher, Spotlight search replacement, window manager, clipboard history, automation, and more)
-https://www.alfredapp.com/, Free with paid add-ons
+Alfred - (Launcher, Spotlight search replacement, window manager, clipboard history, automation, and more)  
+https://www.alfredapp.com/, Free with paid add-ons  
 
-Quicksilver (Launcher, Spotlight search replacement)
-https://qsapp.com, FOSS
+Quicksilver (Launcher, Spotlight search replacement)  
+https://qsapp.com, FOSS  
 
-Ubar (Dock replacement with window management)
-https://ubarapp.com, $30
+Ubar (Dock replacement with window management)  
+https://ubarapp.com, $30  
 
 
 # Notes
-Obsidian
-Notion
+Obsidian  
+Notion  
 
 
 # Utilities
