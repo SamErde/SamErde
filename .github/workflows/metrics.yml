@@ -15,3 +15,33 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: tig
+          template: classic
+          config_gemoji: yes # use additional non-unicode emoji
+          config_timezone: America/NewYork
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes # faster execution
+
+          # base
+          base: header, activity, community, repositories #, metadata
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator
+          repositories_skipped: |
+            @use.patterns
+
+            # Skip a specific repository (both patterns are equivalent)
+            -SamErde/SamErde
+
+          # The coding habits plugin display metrics based on your recent activity, such as active hours or languages recently used.
+          plugin_habits: yes
+          plugin_habits_from: 200      # Use 200 events to compute habits
+          plugin_habits_days: 30       # Keep only events from last 90 days
+          plugin_habits_facts: yes     # Display facts section
+          plugin_habits_charts: no     # Do not display charts section
+
+          plugin_notable: yes
+          plugin_notable_filter: stars:>50 # Only display repositories with 50 stars or more (syntax based on GitHub search query)
+          plugin_notable_repositories: yes     # Display repositories name instead of only organization name
