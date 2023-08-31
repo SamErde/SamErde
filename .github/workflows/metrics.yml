@@ -35,6 +35,8 @@ jobs:
             # Skip a specific repository (both patterns are equivalent)
             -SamErde/SamErde
             -firstcontributions/first-contributions
+            -daattali/beautiful-jekyll
+            -elastic/integrations
 
           # The coding habits plugin display metrics based on your recent activity, such as active hours or languages recently used.
           plugin_habits: yes
@@ -49,3 +51,5 @@ jobs:
           plugin_notable_repositories: yes     # Display repositories name instead of only organization name
           plugin_notable_types: commit,pull_request,issue
           plugin_notable_indepth: yes
+
+          plugin_gists: yes
