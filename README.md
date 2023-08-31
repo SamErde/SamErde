@@ -14,7 +14,5 @@ You matter! If you or someone you care about is affected by depression, anxiety,
 ![Metrics](/github-metrics.svg)  
 
 
-[//]: # [![Sam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=samerde&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[//]: # [![Sam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=samerde&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[//]: # [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/samerde)  
+[//]: # "[![Sam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=samerde&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"
+[//]: # "[![Sam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=samerde&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)"
