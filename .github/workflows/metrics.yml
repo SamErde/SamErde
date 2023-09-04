@@ -20,13 +20,13 @@ jobs:
           user: SamErde
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
-          config_timezone: America/NewYork
+          config_timezone: America/New_York
           retries: 3
           retries_delay: 300
           use_prebuilt_image: yes # faster execution
 
           # base
-          base: header, activity, community, repositories #, metadata
+          base: header, activity, community, repositories, metadata
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           repositories_skipped: |
@@ -51,3 +51,5 @@ jobs:
           plugin_notable_repositories: yes     # Display repositories name instead of only organization name
           plugin_notable_types: commit,pull_request,issue
           plugin_notable_indepth: yes
+
+          plugin_topics: yes
