@@ -53,3 +53,4 @@ jobs:
           plugin_notable_indepth: yes
 
           plugin_topics: yes
+          plugin_topics_mode: icons
