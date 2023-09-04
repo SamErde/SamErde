@@ -1,14 +1,12 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on :blue_heart: PowerShell, Active Directory, Entra (Azure Active Directory), Microsoft 365, Exchange Server, Intune, and Defender for all of the things.  
-- 🌱 I’m continually learning to be a better husband, father, brother, and friend to others. In between those moments, I also enjoy learning about Azure, Git, Docker, Ansible, Terraform, infosec, and Linux. :penguin:  
-- 👯 I’m looking to collaborate on PowerShell, Entra ID, IAM and hybrid identity, Ubiquiti Dream Machine tools, and helping IT operations teams learn that we can/should all do infosec.  
-- 💬 Ask me about Windows, Entra, anything between the two, and most of all: coffee! :coffee:  
+- 🔭 I’m currently working on [Locksmith](https://github.com/TrimarcJake/Locksmith), [No Cert Left Behind](https://github.com/SamErde/No-Cert-Left-Behind), and generally automating as much as possible.  
+- 💬 Let's chat about Active Directory, Entra (Azure Active Directory), Microsoft 365, Exchange Server, Intune, and Microsoft Defender.  
 - 📫 How to reach me: [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde)  
-- 😄 Pronouns: he/his/him  
+- 😄 Pronouns: he/him  
 
 
-You matter! If you or someone you care about is affected by depression, anxiety, or any other mental health challenge, don't wait and don't be afraid to reach out. [NAMI](https://www.nami.org/Your-Journey) and your doctor are a great place to start--or send a message if you just need someone to listen. :yellow_heart:  
+You matter! If you or someone you care about is affected by depression, anxiety, or any other mental health challenge, don't wait and don't be afraid to reach out. [NAMI](https://www.nami.org/Your-Journey) and your doctor are a great place to start. Send a message if you just need someone to listen. :yellow_heart:  
 
 
 ![Metrics](/github-metrics.svg)  
