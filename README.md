@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on [Locksmith](https://github.com/TrimarcJake/Locksmith), [No Cert Left Behind](https://github.com/SamErde/No-Cert-Left-Behind), [The Cleaners](https://github.com/SamErde/TheCleaners), and [PowerShell Pre-Workout](https://github.com/SamErde/PowerShell-Pre-Workout).  
+- 🔭 I’m currently working on some PowerShell modules that help you with security and keeping your infrastructure running smoothly. Check out [Locksmith](https://github.com/TrimarcJake/Locksmith), [No Cert Left Behind](https://github.com/SamErde/No-Cert-Left-Behind), [The Cleaners](https://github.com/SamErde/TheCleaners), and [PowerShell Pre-Workout](https://github.com/SamErde/PowerShell-Pre-Workout).  
 - 💬 Let's chat about Active Directory, Entra ID (Azure Active Directory), Microsoft 365, Exchange Server, Intune, and Microsoft Defender.  
 - 📫 You can reach me at [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde)  
 
