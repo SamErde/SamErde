@@ -1,8 +1,12 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on [Locksmith](https://github.com/TrimarcJake/Locksmith), The Cleaners, and PowerShell Pre-workout.  
-- 💬 Let's chat about PowerShell, Active Directory, Entra ID (Azure Active Directory), Microsoft 365, Microsoft Defender XDR, and Exchange!  
-- 📫 You can reach me at [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde).  
+🔭 I’m currently working on:
+
+- [Locksmith](https://github.com/TrimarcJake/Locksmith)
+- The Cleaners
+- PowerShell Pre-workout  
+
+📫 You can reach me at [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde).  
 
 ### How I Work 🧰
 
