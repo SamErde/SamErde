@@ -1,16 +1,14 @@
 ### Hi there!
 
-I’m currently working on some tools to make life easier for operations and defenders::
+I’m currently working on some tools to make life easier for operations and defenders:
 
 - [Locksmith](https://github.com/TrimarcJake/Locksmith)
 - [The Cleaners](https://github.com/SamErde/TheCleaners)
-- [PowerShell Pre-workout](https://github.com/SamErde/PowerShell-Pre-Workout)  
+- [PowerShell Pre-workout (PSPreworkout)](https://github.com/SamErde/PowerShell-Pre-Workout)  
 
 You can find me at [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde).  
 
-If stats are your thing, here are some fun [metrics about my GitHub contributions](./metrics.md).
-
----  
+If stats are your thing, here are some fun [metrics about my GitHub contributions](./metrics.md).  
 
 ### How I Work
 
