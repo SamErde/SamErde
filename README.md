@@ -4,13 +4,11 @@ I’m currently working on some tools to make life easier for operations and def
 
 - [Locksmith](https://github.com/TrimarcJake/Locksmith)
 - [The Cleaners](https://github.com/SamErde/TheCleaners)
-- [PowerShell Pre-workout (PSPreworkout)](https://github.com/SamErde/PowerShell-Pre-Workout)  
+- [PowerShell Pre-workout (PSPreworkout)](https://github.com/SamErde/PowerShell-Pre-Workout)
 
-You can find me at [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde).  
+You can find me at [Twitter](https://twitter.com/SamErde), [LinkedIn](https://www.linkedin.com/in/samerde/), or [Server Fault](https://serverfault.com/users/49571/sturdyerde).
 
-If stats are your thing, here are some fun [metrics about my GitHub contributions](./metrics.md).  
-
-### How I Work
+If stats are your thing, here are some fun [metrics about my GitHub contributions](./metrics.md).
 
 <div id="logos">
   <img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/6ceaf92bf941f8c08367016c8cfe1dcc9aafbce1/assets/ps_black_128.svg" style="margin:5px" />
