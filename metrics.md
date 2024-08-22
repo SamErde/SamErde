@@ -1,5 +1,9 @@
 # Interesting Metrics
 
+# ✨ My GitHub profile ✨ ![Profile views][views]
+
+![Sam's GitHub stats][mystats]
+
 ![Metrics](/github-metrics.svg)
 
 ---  
