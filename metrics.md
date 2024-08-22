@@ -10,4 +10,4 @@
 ---  
 <!-- link references -->
 [views]: https://komarev.com/ghpvc/?username=samerde
-[mystats]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
+[mystats]: https://github-readme-stats.vercel.app/api?username=samerde&theme=dark&show_icons=true&count_private=true
