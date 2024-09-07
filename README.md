@@ -22,10 +22,11 @@ I’m currently working on some tools to make life easier for operations teams a
 &nbsp;  
 
 ![Sam's GitHub stats][mystats]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde)](https://github.com/SamErde/github-readme-stats)
 
 ![Metrics](/github-metrics.svg)  
 ![Profile views][views]  
 ---  
 <!-- link references -->
 [views]: https://komarev.com/ghpvc/?username=samerde
-[mystats]: https://github-readme-stats.vercel.app/api?username=samerde&theme=dark&show_icons=true&count_private=true
+[mystats]: https://github-readme-stats.vercel.app/api?username=samerde&theme=transparent&show_icons=true&count_private=true
