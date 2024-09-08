@@ -47,7 +47,7 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes     # Display repositories name instead of only organization name
           plugin_notable_types: commit,pull_request
-          plugin_notable_indepth: yes
+          plugin_notable_indepth: no
 
           plugin_topics: yes
           plugin_topics_limit: 10
