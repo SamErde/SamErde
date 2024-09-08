@@ -25,7 +25,6 @@ I’m currently working on some tools to make life easier for operations teams a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&layout=donut)](https://github.com/SamErde/github-readme-stats)
 
-![Metrics](/github-metrics.svg)  
 ![Profile views][views]  
 ---  
 <!-- link references -->
