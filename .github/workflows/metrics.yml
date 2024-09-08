@@ -46,7 +46,7 @@ jobs:
           plugin_notable_filter: stars:>16 # Only display repositories with 50 stars or more (syntax based on GitHub search query)
           plugin_notable_from: all
           plugin_notable_repositories: yes     # Display repositories name instead of only organization name
-          plugin_notable_types: commit,pull_request,issue
+          plugin_notable_types: commit,pull_request
           plugin_notable_indepth: yes
 
           plugin_topics: yes
