@@ -30,4 +30,4 @@ I’m currently working on some tools to make life easier for operations teams a
 ---  
 <!-- link references -->
 [views]: https://komarev.com/ghpvc/?username=samerde
-[mystats]: https://github-readme-stats.vercel.app/api?username=samerde&theme=transparent&show_icons=true&count_private=true
+[mystats]: https://github-readme-stats.vercel.app/api?username=samerde&show_icons=true&count_private=true
