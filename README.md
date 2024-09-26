@@ -1,6 +1,6 @@
 # 👋🏻 Hi there!
 
-I’m currently working on some tools to make life easier for operations teams and defenders with a focus on Active Directory, Entra ID, and Microsoft 365:  
+I’m currently working on some PowerShell-based tools to make life easier for operations teams and defenders with a focus on Active Directory, Entra ID, and Microsoft 365:  
 
 - [Locksmith](https://github.com/TrimarcJake/Locksmith)
 - [The Cleaners](https://github.com/SamErde/TheCleaners)
