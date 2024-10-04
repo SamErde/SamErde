@@ -22,6 +22,8 @@ I’m currently working on some PowerShell-based tools to make life easier for o
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamErde&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&layout=donut)](https://github.com/SamErde/github-readme-stats)
 
+[![An image of @samerde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samerde)](https://holopin.io/@samerde)
+
 ![Profile views][views]  
 ---  
 <!-- link references -->
