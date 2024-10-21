@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  # schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -38,9 +38,9 @@ jobs:
           # The coding habits plugin display metrics based on your recent activity, such as active hours or languages recently used.
           plugin_habits: yes
           plugin_habits_from: 240      # Use 200 events to compute habits
-          plugin_habits_days: 60       # Keep only events from last 90 days
+          plugin_habits_days: 90       # Keep only events from last 90 days
           plugin_habits_facts: yes     # Display facts section
-          plugin_habits_charts: no     # Do not display charts section
+          plugin_habits_charts: yes     # Do not display charts section
 
           plugin_notable: yes
           plugin_notable_filter: stars:>16 # Only display repositories with 50 stars or more (syntax based on GitHub search query)
