@@ -49,7 +49,7 @@ jobs:
           plugin_notable_types: commit,pull_request
           plugin_notable_indepth: no
 
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_limit: 10
           plugin_topics_mode: mastered
           plugin_topics_sort: activity
