@@ -28,10 +28,6 @@
 
 [![Sam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=SamErde)](https://github.com/SamErde)
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamErde&layout=compact)](https://github.com/SamErde)
-
-
-
 ![Profile views][views]
 
 <!-- link references -->
