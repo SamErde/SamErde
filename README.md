@@ -24,9 +24,9 @@
 
 ## 🔢 Stats for Nerds
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamErde&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamErde&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=SamErde)](https://github.com/SamErde)
+![Metrics](/github-metrics.svg)
 
 ![Profile views][views]
 
