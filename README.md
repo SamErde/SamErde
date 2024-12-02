@@ -40,7 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&langs_count=3" />
 </a>
 
-## 🔢 Detailed Stats
+&nbsp;  
 <a href="https://github.com/SamErde/SamErde">
   <img align="center" src="/github-metrics.svg" />
 </a>
