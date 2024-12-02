@@ -26,7 +26,7 @@ jobs:
           use_prebuilt_image: yes # faster execution
 
           # base
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           repositories_skipped: |
@@ -36,11 +36,11 @@ jobs:
             -SamErde/SamErde
 
           # The coding habits plugin display metrics based on your recent activity, such as active hours or languages recently used.
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 240      # Use 200 events to compute habits
           plugin_habits_days: 90       # Keep only events from last 90 days
-          plugin_habits_facts: yes     # Display facts section
-          plugin_habits_charts: yes     # Do not display charts section
+          plugin_habits_facts: no     # Display facts section
+          plugin_habits_charts: no     # Do not display charts section
 
           plugin_notable: yes
           plugin_notable_filter: stars:>16 # Only display repositories with 50 stars or more (syntax based on GitHub search query)
