@@ -1,9 +1,11 @@
 # 👋🏻 Hi there!
 
-- 🔭 I'm currently working on some PowerShell-based tools to make life easier for operations teams and defenders. My work has a focus on Active Directory, Defender XDR, Entra ID, Intune, Microsoft 365, and Windows Server:
-  - [Locksmith](https://github.com/TrimarcJake/Locksmith)
-  - [PowerShell Pre-workout (PSPreworkout)](https://github.com/SamErde/PowerShell-Pre-Workout)
-  - [The Cleaners](https://github.com/SamErde/TheCleaners)
+- 🔭 I'm currently working on PowerShell-based tools to make life easier for operations teams and defenders. My projects focuse on Active Directory, Defender XDR, Entra ID, Intune, Microsoft 365, and Windows Server:
+
+  - [Locksmith](https://github.com/TrimarcJake/Locksmith) (AD CS Security)
+  - [PSPreworkout](https://github.com/SamErde/PSPreworkout) (PowerShell Preworkout)
+  - [The Cleaners](https://github.com/SamErde/TheCleaners) (Windows Server Maintenance)
+
 - 🌱 I’m currently learning GitHub Actions and always more PowerShell.
 - 👨‍💻 I'm looking to collaborate on PowerShell projects that automate Active Directory, Defender XDR, Entra ID, and Microsoft 365.
 &nbsp;  
@@ -17,16 +19,31 @@
   <img alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  
+  <img alt="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="Cloudflare" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="ReadTheDocs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" style="margin:5px" />  &nbsp;  
+  <img alkt="Jekyll" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="margin:5px" />  
 </div>
 &nbsp;  
 &nbsp;  
 
 ## 🔢 Stats for Nerds
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamErde&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/SamErde/SamErde">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&line_height=27&count_private=true" alt="Sam's GitHub Stats" />
+</a>
+<a href="https://github.com/SamErde/SamErde">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&langs_count=3" />
+</a>
 
-![Metrics](/github-metrics.svg)
+## 🔢 Detailed Stats
+<a href="https://github.com/SamErde/SamErde">
+  <img align="center" src="/github-metrics.svg" />
+</a>
 
 ![Profile views][views]
 
