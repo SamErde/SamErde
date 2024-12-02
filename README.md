@@ -21,12 +21,11 @@
   <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="Cloudflare" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="ReadTheDocs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" style="margin:5px" />  &nbsp;  
-  <img alkt="Jekyll" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="margin:5px" />  
+  <img alkt="Jekyll" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="ReadTheDocs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin:5px" />  &nbsp;  
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  
 </div>
 &nbsp;  
 &nbsp;  
