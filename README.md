@@ -1,17 +1,15 @@
 # 👋🏻 Hi there!
 
-- 🔭 I'm currently working on PowerShell-based tools to make life easier for operations teams and defenders. My projects focuse on Active Directory, Defender XDR, Entra ID, Intune, Microsoft 365, and Windows Server:
+👨‍💻 I'm currently working on PowerShell-based tools to make life easier for defenders and operations teams. My projects focus largely on Active Directory, Defender XDR, Entra ID, Intune, Microsoft 365, and Windows Server:
 
-  - [Locksmith](https://github.com/TrimarcJake/Locksmith) (AD CS Security)
-  - [PSPreworkout](https://github.com/SamErde/PSPreworkout) (PowerShell Preworkout)
-  - [The Cleaners](https://github.com/SamErde/TheCleaners) (Windows Server Maintenance)
+ - [Locksmith](https://github.com/TrimarcJake/Locksmith): A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
+ - [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell session.
+ - [The Cleaners](https://github.com/SamErde/TheCleaners): A PowerShell module to clean the loose ends from your Windows Servers.
 
-- 🌱 I’m currently learning GitHub Actions and always more PowerShell.
-- 👨‍💻 I'm looking to collaborate on PowerShell projects that automate Active Directory, Defender XDR, Entra ID, and Microsoft 365.
-&nbsp;  
-&nbsp;  
+It doesn't stop there! See my full list of freely available scripts for many applications and platforms in my general [PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
+> Welcome to my collection of PowerShell scripts, functions, snippets, prompts, and more. I have been adding new things regularly and slowing going through old code to make sure it's decent enough to share! 😆 Most of this will be focused on Active Directory, Entra ID, Exchange Server, Microsoft 365, and general PowerShell tooling. You never know what other nuggets we'll find here, though. Enjoy, and PRs are welcomed!
 
-## 🛠️ What I Use
+### 🛠️ What I Use
 <div id="logos">
   <img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/6ceaf92bf941f8c08367016c8cfe1dcc9aafbce1/assets/ps_black_128.svg" style="margin:5px" />  &nbsp;  
   <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:5px" />  &nbsp;  
@@ -30,7 +28,7 @@
 &nbsp;  
 &nbsp;  
 
-## 🔢 Stats for Nerds
+### 🔢 Stats for Nerds Like Me
 
 <a href="https://github.com/SamErde/SamErde">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&hide=&line_height=27&count_private=false" alt="Sam's GitHub Stats" />
