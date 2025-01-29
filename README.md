@@ -6,7 +6,8 @@
  - [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell session.
  - [The Cleaners](https://github.com/SamErde/TheCleaners): A PowerShell module to clean the loose ends from your Windows Servers.
 
-It doesn't stop there! See my full list of freely available scripts for many applications and platforms in my general [PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
+It doesn't stop there! See my full list of freely available scripts for many applications and platforms in my general [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
+> ### PowerShell
 > Welcome to my collection of PowerShell scripts, functions, snippets, prompts, and more. I have been adding new things regularly and slowing going through old code to make sure it's decent enough to share! 😆 Most of this will be focused on Active Directory, Entra ID, Exchange Server, Microsoft 365, and general PowerShell tooling. You never know what other nuggets we'll find here, though. Enjoy, and PRs are welcomed!
 
 ### 🛠️ What I Use
