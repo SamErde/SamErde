@@ -6,11 +6,24 @@
  - [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell session.
  - [The Cleaners](https://github.com/SamErde/TheCleaners): A PowerShell module to clean the loose ends from your Windows Servers.
 
-It doesn't stop there! See my full list of freely available scripts for many applications and platforms in my general [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
-> ### PowerShell
+&nbsp;
+
+> [!NOTE]
+> It doesn't stop there! See the full list of freely available scripts for many platforms in my general [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
+> ### [PowerShell](https://github.com/SamErde/PowerShell)
 > Welcome to my collection of PowerShell scripts, functions, snippets, prompts, and more. I have been adding new things regularly and slowing going through old code to make sure it's decent enough to share! 😆 Most of this will be focused on Active Directory, Entra ID, Exchange Server, Microsoft 365, and general PowerShell tooling. You never know what other nuggets we'll find here, though. Enjoy, and PRs are welcomed!
 
-### 🛠️ What I Use
+&nbsp;  
+
+<a href="https://github.com/SamErde/SamErde">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&hide=&line_height=27&count_private=false&custom_title=PS%3E%20$SamErde.Stats" alt="Sam's GitHub Stats" />
+</a>
+<a href="https://github.com/SamErde/SamErde">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&langs_count=3" />
+</a>
+
+&nbsp;  
+
 <div id="logos">
   <img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/6ceaf92bf941f8c08367016c8cfe1dcc9aafbce1/assets/ps_black_128.svg" style="margin:5px" />  &nbsp;  
   <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:5px" />  &nbsp;  
@@ -26,17 +39,6 @@ It doesn't stop there! See my full list of freely available scripts for many app
   <img alt="ReadTheDocs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  
 </div>
-&nbsp;  
-&nbsp;  
-
-### 🔢 Stats for Nerds Like Me
-
-<a href="https://github.com/SamErde/SamErde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&hide=&line_height=27&count_private=false&custom_title=PS%3E%20$SamErde.Stats" alt="Sam's GitHub Stats" />
-</a>
-<a href="https://github.com/SamErde/SamErde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&langs_count=3" />
-</a>
 
 &nbsp;  
 <a href="https://github.com/SamErde/SamErde">
