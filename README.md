@@ -2,7 +2,7 @@
 
 👨‍💻 I'm currently working on PowerShell-based tools to make life easier for defenders and operations teams. My projects focus largely on Active Directory, Defender XDR, Entra ID, Intune, Microsoft 365, and Windows Server:
 
- - [Locksmith](https://github.com/TrimarcJake/Locksmith): A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
+ - [Locksmith](https://github.com/TrimarcJake/Locksmith): A small tool built (by @JakeHildreth) to find and fix common misconfigurations in Active Directory Certificate Services.
  - [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell session.
  - [The Cleaners](https://github.com/SamErde/TheCleaners): A PowerShell module to clean the loose ends from your Windows Servers.
 
