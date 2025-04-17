@@ -43,5 +43,4 @@ jobs:
           plugin_notable_filter: stars:>50
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_skipped: SamErde/SamErde
           plugin_notable_types: commit,pull_request
