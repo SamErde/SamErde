@@ -39,9 +39,9 @@ It doesn't stop there! See the full list of freely available scripts for many pl
 </div>
 
 &nbsp;  
-<a href="https://github.com/SamErde/SamErde">
-  <img align="center" src="/github-metrics.svg" />
-</a>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ![Profile views][views]
 
