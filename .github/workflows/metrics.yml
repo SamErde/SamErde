@@ -34,13 +34,12 @@ jobs:
           repositories_affiliations: owner, collaborator
           repositories_skipped: |
             @use.patterns
-
             # Skip a specific repository (both patterns are equivalent)
             -SamErde/SamErde
 
-          plugin_achievements: no
           plugin_notable: yes
-          plugin_notable_filter: stars:>50
+          # plugin_notable_filter: stars:>50
           plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit,pull_request
+          # plugin_notable_repositories: yes
+          # plugin_notable_types: commit,pull_request
+          # plugin_achievements: no
