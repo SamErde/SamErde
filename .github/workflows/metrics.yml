@@ -31,6 +31,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_timezone: America/New_York
+          plugin_notable: yes
+          plugin_notable_filter: stars:>50
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_types: commit, pull_request
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit: 3
@@ -39,17 +45,3 @@ jobs:
           plugin_starlists_only: PowerShell for PowerShell 💙
           plugin_starlists_shuffle_repositories: yes
           plugin_traffic: yes
-          #-----
-          repositories_forks: yes
-          repositories_affiliations: owner, collaborator
-          repositories_skipped: |
-            @use.patterns
-            # Skip a specific repository (both patterns are equivalent)
-            -SamErde/SamErde
-          #-----
-          plugin_notable: yes
-          plugin_notable_filter: stars:>50
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit,pull_request
-          plugin_achievements: no
