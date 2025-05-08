@@ -40,10 +40,12 @@ It doesn't stop there! See the full list of freely available scripts for many pl
 </div>
 
 &nbsp;  
+![Metrics](https://metrics.lecoq.io/SamErde?template=classic&starlists=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&starlists=false&starlists.limit=3&starlists.limit.repositories=3&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&starlists.only=PowerShell%20for%20PowerShell%20%F0%9F%92%99&traffic=false&config.timezone=America%2FNew_York&config.display=columns)
+<!--
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-
+-->
 ![Profile views][views]
 
 <!-- link references -->
