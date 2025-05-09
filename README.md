@@ -46,6 +46,8 @@ It doesn't stop there! See the full list of freely available scripts for many pl
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
+&nbsp;  
+
 ![Profile views][views]
 
 <!-- link references -->
