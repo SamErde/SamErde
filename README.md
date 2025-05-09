@@ -39,8 +39,6 @@ It doesn't stop there! See the full list of freely available scripts for many pl
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  
 </div>
 
-&nbsp;  
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
