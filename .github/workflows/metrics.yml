@@ -29,7 +29,7 @@ jobs:
           user: SamErde
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          #config_display: columns
           config_timezone: America/New_York
           plugin_traffic: yes
           plugin_notable: yes
@@ -38,8 +38,8 @@ jobs:
           plugin_notable_indepth: no
           plugin_notable_repositories: yes
           plugin_notable_types: pull_request
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
+          #plugin_starlists: yes
+          #plugin_starlists_languages: yes
           #plugin_starlists_limit: 3
           #plugin_starlists_limit_languages: 8
           #plugin_starlists_limit_repositories: 3
