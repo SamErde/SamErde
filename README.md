@@ -17,9 +17,6 @@ It doesn't stop there! See the full list of freely available scripts for many pl
 <a href="https://github.com/SamErde/SamErde">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&hide=&line_height=27&count_private=false&custom_title=PS%3E%20$SamErde.Stats" alt="Sam's GitHub Stats" />
 </a>
-<a href="https://github.com/SamErde/SamErde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamErde&langs_count=3" />
-</a>
 
 &nbsp;  
 
