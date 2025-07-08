@@ -2,10 +2,11 @@
 
 👨‍💻 I'm currently working on PowerShell-based tools to make life easier for defenders and operations teams. The projects I am actively contributing these days focus largely on Active Directory, Defender XDR, Entra ID, Intune, Microsoft 365, and Windows Server:
 
- - [Locksmith](https://github.com/TrimarcJake/Locksmith): A small tool built (by @JakeHildreth) to find and fix common misconfigurations in Active Directory Certificate Services.
- - [Maester](https://github.com/Maester365/Maester): A PowerShell based test automation framework to help you stay in control of your Microsoft 365 security configuration.
- - [Entra PowerShell](https://github.com/microsoftgraph/entra-powershell): A PowerShell module that makes it easier for Entra ID administrators to manage their tenant.
- - [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell sessions.
+ - 🔐 [Locksmith](https://github.com/TrimarcJake/Locksmith): A small tool built (by @JakeHildreth) to find and fix common misconfigurations in Active Directory Certificate Services.
+ - 🔥 [Maester](https://github.com/Maester365/Maester): A PowerShell based test automation framework to help you stay in control of your Microsoft 365 security configuration.
+ - 🪪 [Entra PowerShell](https://github.com/microsoftgraph/entra-powershell): A PowerShell module that makes it easier for Entra ID administrators to manage their tenant.
+ - 💪 [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell sessions.
+ - 🥒 [DLLPickle](#): Coming Soon
 
 &nbsp;  
 It doesn't stop there! See the full list of freely available scripts for many platforms in my general [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
@@ -15,7 +16,7 @@ It doesn't stop there! See the full list of freely available scripts for many pl
 &nbsp;  
 
 <a href="https://github.com/SamErde/SamErde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&hide=&line_height=27&count_private=false&custom_title=PS%3E%20$SamErde.Stats" alt="Sam's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&hide=&rank_icon=percentile&line_height=27&count_private=false&custom_title=PS%3E%20$SamErde.Stats" alt="Sam's GitHub Stats" />
 </a>
 
 &nbsp;  
