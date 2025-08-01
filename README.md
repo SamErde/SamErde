@@ -11,34 +11,3 @@
 # 🫴
 
 See my full list of freely available scripts for many platforms in the [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
-
-<!--
-<div id="logos">
-  <img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/6ceaf92bf941f8c08367016c8cfe1dcc9aafbce1/assets/ps_black_128.svg" style="margin:5px" />  &nbsp;  
-  <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="Windows Terminal" width="30px" src="https://raw.githubusercontent.com/microsoft/terminal/main/res/terminal.ico" style="margin:5px" />  &nbsp;  
-  <img alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="Cloudflare" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" style="margin:5px" />  &nbsp;  
-  <img alkt="Jekyll" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="ReadTheDocs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin:5px" />  &nbsp;  
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  
-</div>
--->
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
-&nbsp;  
-
-[![SamErde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&custom_title=PS%3E%20$SamErde.Stats)](https://github.com/SamErde/SamErde)
-
-![Profile views][views]
-
-<!-- link references -->
-[views]: https://komarev.com/ghpvc/?username=samerde
