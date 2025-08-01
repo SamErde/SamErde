@@ -12,10 +12,7 @@
 It doesn't stop there! See the full list of freely available scripts for many platforms in my general [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
 
 &nbsp;  
-
-<a href="https://github.com/SamErde/SamErde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&line_height=27&count_private=false&custom_title=PS%3E%20$SamErde.Stats" alt="Sam's GitHub Stats" />
-</a>
+[![SamErde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&custom_title=PS%3E%20$SamErde.Stats)](https://github.com/SamErde/SamErde)
 
 &nbsp;  
 
