@@ -32,8 +32,8 @@ jobs:
           #config_display: columns
           config_timezone: America/New_York
           plugin_notable: yes
-          plugin_notable_filter: stars:>50
+          #plugin_notable_filter: stars:>50
           plugin_notable_from: all
           plugin_notable_indepth: no
           plugin_notable_repositories: yes
-          plugin_notable_types: pull_request
+          plugin_notable_types: pull_request,commit
