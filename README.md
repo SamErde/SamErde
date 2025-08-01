@@ -8,14 +8,11 @@
  - 💪 [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell sessions.
  - 🥒 [DLLPickle](#): Coming Soon
 
-&nbsp;  
-It doesn't stop there! See the full list of freely available scripts for many platforms in my general [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository. 🫴
+# 🫴
 
-&nbsp;  
-[![SamErde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&custom_title=PS%3E%20$SamErde.Stats)](https://github.com/SamErde/SamErde)
+See my full list of freely available scripts for many platforms in the [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
 
-&nbsp;  
-
+<!--
 <div id="logos">
   <img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/6ceaf92bf941f8c08367016c8cfe1dcc9aafbce1/assets/ps_black_128.svg" style="margin:5px" />  &nbsp;  
   <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:5px" />  &nbsp;  
@@ -31,14 +28,15 @@ It doesn't stop there! See the full list of freely available scripts for many pl
   <img alt="ReadTheDocs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="margin:5px" />  &nbsp;  
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />  
 </div>
-
-&nbsp;  
+-->
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 &nbsp;  
+
+[![SamErde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamErde&show_icons=true&custom_title=PS%3E%20$SamErde.Stats)](https://github.com/SamErde/SamErde)
 
 ![Profile views][views]
 
