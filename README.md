@@ -8,6 +8,6 @@
  - 💪 [PSPreworkout](https://github.com/SamErde/PSPreworkout): A special mix of tools to help jump start your PowerShell sessions.
  - 🥒 [DLLPickle]([#](https://github.com/SamErde/)DllPickle): Coming Soon
 
-# 🫴
+---
 
-See my full list of freely available scripts for many platforms in the [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
+🫴 See my full list of freely available scripts for many platforms in the [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
