@@ -6,13 +6,21 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   # push: {branches: ["master", "main"]}
+permissions:
+  contents: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@95d9a5deda9de15063e7595e9719c11c38c90ae2 # v2.13.2
+        with:
+          egress-policy: audit
+
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
         with:
           # Your GitHub token
           # The following scopes are required:
