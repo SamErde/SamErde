@@ -11,3 +11,9 @@
 ---
 
 🫴 See my full list of freely available scripts for many platforms in the [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
