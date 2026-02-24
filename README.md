@@ -17,5 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#144](https://github.com/SamErde/DLLPickle/pull/144) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
+2. ℹ️ Assigned PR [#144](https://github.com/SamErde/DLLPickle/pull/144) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
+3. 💪 Opened PR [#144](https://github.com/SamErde/DLLPickle/pull/144) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
+4. 🎉 Merged PR [#143](https://github.com/SamErde/DLLPickle/pull/143) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
+5. ℹ️ Assigned PR [#143](https://github.com/SamErde/DLLPickle/pull/143) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
+<!--END_SECTION:activity-->
 
 ---
