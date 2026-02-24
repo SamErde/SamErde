@@ -8,20 +8,6 @@
 - [Maester](https://github.com/Maester365/Maester): A PowerShell based test automation framework to help you stay in control of your Microsoft 365 security configuration. 🔥
 - [Entra PowerShell](https://github.com/microsoftgraph/entra-powershell): A PowerShell module that makes it easier for Entra ID administrators to manage their tenant. 🪪
 
----
+&nbsp;  
 
-🫴 See my full list of freely available scripts for many platforms in the [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/SamErde/DLLPickle/pull/144) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
-2. ℹ️ Assigned PR [#144](https://github.com/SamErde/DLLPickle/pull/144) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
-3. 💪 Opened PR [#144](https://github.com/SamErde/DLLPickle/pull/144) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
-4. 🎉 Merged PR [#143](https://github.com/SamErde/DLLPickle/pull/143) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
-5. ℹ️ Assigned PR [#143](https://github.com/SamErde/DLLPickle/pull/143) in [SamErde/DLLPickle](https://github.com/SamErde/DLLPickle)
-<!--END_SECTION:activity-->
-
----
+🫴 See the full list of freely available scripts for many platforms in my [SamErde/PowerShell](https://github.com/SamErde/PowerShell) repository.
